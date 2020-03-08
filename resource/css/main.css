@@ -81,6 +81,11 @@ body{
     color: white;
 }
 
+.fa-github {
+    background: #3E2C00;
+    color: white;
+}
+
 .nameTitle {
     width: 295px;
     overflow: hidden;
