@@ -69,6 +69,7 @@ body{
 .fa-twitter {
     background: #55ACEE;
     color: white;
+    width: 55px;
 }
 
 .fa-stack-overflow{
@@ -83,6 +84,10 @@ body{
 
 .fa-github {
     background: #F1502F;
+    color: white;
+}
+.fa-code{
+    background: #009688;
     color: white;
 }
 
